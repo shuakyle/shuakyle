@@ -1,7 +1,7 @@
 ### Hello, my name is Joshua Kyle 👋
 
 
-I'm a junior student studying Electronics and Communications Engineering at Cavite State University. Aside from that, i’m also passionate about learning Data Science and Artificial Intelligence!
+I'm a junior student studying Electronics and Communications Engineering at Cavite State University. Aside from that, I’m also passionate about learning Data Science and Artificial Intelligence!
 
 - 🔭 I’m currently working on different python-related projects.
 - 🌱 I’m currently learning Data Science and Artificial Intelligence.
