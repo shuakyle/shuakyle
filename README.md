@@ -1,7 +1,5 @@
 ### Hello, my name is Joshua Kyle 👋
 
-<!--
-**shuakyle/shuakyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I'm a junior student studying Electronics and Communications Engineering at Cavite State University. Aside from that, i’m also passionate about learning Data Science and Artificial Intelligence!
 
@@ -13,4 +11,4 @@ I'm a junior student studying Electronics and Communications Engineering at Cavi
 - 📫 How to reach me: kylebeltran23@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My favorite fruit and color are orange!
--->
+
